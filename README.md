@@ -1,10 +1,9 @@
 ## 👋 Hi, I'm Chaitanya Bhosale  
 
-### Data Science Enthusiast | CSE Student | Learning Analytics & AI  
+### Data Science Enthusiast | CSE Student | Analytics & Programming  
 
 - 👀 I’m interested in **Data Science, Analytics, Programming**
-- 🌱 I’m currently learning **SQL & Data Analysis**
-- 🤝 I’m looking to collaborate on **beginner-friendly data projects**
+- 🤝 I’m looking to collaborate on **data-related projects**
 - 📫 How to reach me:  
   https://www.linkedin.com/in/chaitnya-bhosale-0122741b7/
 
@@ -26,8 +25,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="45" height="45"/>
 
 </p>
